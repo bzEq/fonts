@@ -1,2 +1,2 @@
 # fonts
-Open fonts I'm using
+Open fonts I'm using.
